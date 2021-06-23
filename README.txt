@@ -1,4 +1,4 @@
-O app precisa ter o node.js e yarn instalados para rodar.
+O app precisa ter o node.js instalado para rodar.
 
 Baixa e instalar o Node:
 https://nodejs.org/en/
